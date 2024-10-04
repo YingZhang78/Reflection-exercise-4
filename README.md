@@ -1,7 +1,7 @@
-title: "Reflection Exercise 4"
-author: "Ying Zhang"
-format: pdf
-editor: visual
+# title: "Reflection Exercise 4"
+# author: "Ying Zhang"
+# format: pdf
+# editor: visual
 
 # Please use IPUMS to access the 2022 ACS.
 
